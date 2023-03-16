@@ -42,3 +42,4 @@ function multiply(a, b){
 
 * English - fluent
 * Russian - fluent
+* Kazakh - fluent
